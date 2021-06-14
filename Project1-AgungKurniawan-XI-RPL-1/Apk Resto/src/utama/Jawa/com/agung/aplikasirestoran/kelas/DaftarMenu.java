@@ -38,10 +38,6 @@ public class DaftarMenu {
         }
     }
     
-    public void tampilDaftarMenu() {
-        System.out.println("========= CARRACING ===========");
-        getMenuByKategori("Bmw");
-        
 
     public Menu pilihMenu() {
          try{
